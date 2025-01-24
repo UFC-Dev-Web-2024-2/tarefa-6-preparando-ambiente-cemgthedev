@@ -136,22 +136,22 @@ Após a instalação, verifique se o Node.js, npm e npx foram instalados correta
     - [ ] **Docker**: Configurar para gerenciar contêineres no projeto.
     - [ ] **Dev Containers**: Criar ambiente de desenvolvimento isolado com `.devcontainer`.
     - [ ] **GitHub Pull Requests**: Revisar e gerenciar solicitações de pull.
-    - [ ] **Git Lens**: Habilitar funcionalidades avançadas do Git.
-    - [ ] **GitHub Copilot**: Ativar para autocompletar com IA.
-    - [ ] **Rest Client**: Testar endpoints de APIs diretamente no VSCode.
+    - [🎯] **Git Lens**: Habilitar funcionalidades avançadas do Git.
+    - [🎯] **GitHub Copilot**: Ativar para autocompletar com IA. Obs: instalei o Codeium (https://codeium.com/)
+    - [🎯] **Rest Client**: Testar endpoints de APIs diretamente no VSCode.
     - [🎯] **Live Share**: Configurar para colaboração em tempo real.
     - [🎯] **Figma for VSCode**: Navegar e inspecionar arquivos de design no editor.
     - [🎯] **SonarQube for IDE**: Detectar problemas de codificação em tempo real.
     - [🎯] **ESLint**: Configurar análise estática do código.
 - [ ] Ativar backup e sincronização das configurações no VSCode
-- [ ] Habilitar autosave do VSCode
-- [ ] Habilitar opção de Selecionar texto no terminal com o mouse
-- [ ] Instalar React Developer Tools
-- [ ] Preparar ambiente para React
-  - [ ] Instalar Node, NPM e NVM no ambiente de desenvolvimento
-  - [ ] Verificar instalações:
-    - [ ] `node -v`
-    - [ ] `npm -v`
-    - [ ] `npx -v`
+- [🎯] Habilitar autosave do VSCode
+- [🎯] Habilitar opção de Selecionar texto no terminal com o mouse
+- [🎯] Instalar React Developer Tools
+- [🎯] Preparar ambiente para React
+  - [🎯] Instalar Node, NPM e NVM no ambiente de desenvolvimento
+  - [🎯] Verificar instalações:
+    - [🎯] `node -v`
+    - [🎯] `npm -v`
+    - [🎯] `npx -v`
 
 
