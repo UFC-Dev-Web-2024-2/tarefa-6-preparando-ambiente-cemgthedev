@@ -131,18 +131,18 @@ Após a instalação, verifique se o Node.js, npm e npx foram instalados correta
 
 ## Resumo de atividades
 - [ ] Instalar e configurar as seguintes extensões no VSCode:
-    - [ ] **Code Spell Checker**: Habilitar suporte para correção em português brasileiro.
-    - [ ] **Prettier**: Configurar formatação automática de código.
+    - [🎯] **Code Spell Checker**: Habilitar suporte para correção em português brasileiro.
+    - [🎯] **Prettier**: Configurar formatação automática de código.
     - [ ] **Docker**: Configurar para gerenciar contêineres no projeto.
     - [ ] **Dev Containers**: Criar ambiente de desenvolvimento isolado com `.devcontainer`.
     - [ ] **GitHub Pull Requests**: Revisar e gerenciar solicitações de pull.
     - [ ] **Git Lens**: Habilitar funcionalidades avançadas do Git.
     - [ ] **GitHub Copilot**: Ativar para autocompletar com IA.
     - [ ] **Rest Client**: Testar endpoints de APIs diretamente no VSCode.
-    - [ ] **Live Share**: Configurar para colaboração em tempo real.
-    - [ ] **Figma for VSCode**: Navegar e inspecionar arquivos de design no editor.
-    - [ ] **SonarQube for IDE**: Detectar problemas de codificação em tempo real.
-    - [ ] **ESLint**: Configurar análise estática do código.
+    - [🎯] **Live Share**: Configurar para colaboração em tempo real.
+    - [🎯] **Figma for VSCode**: Navegar e inspecionar arquivos de design no editor.
+    - [🎯] **SonarQube for IDE**: Detectar problemas de codificação em tempo real.
+    - [🎯] **ESLint**: Configurar análise estática do código.
 - [ ] Ativar backup e sincronização das configurações no VSCode
 - [ ] Habilitar autosave do VSCode
 - [ ] Habilitar opção de Selecionar texto no terminal com o mouse
